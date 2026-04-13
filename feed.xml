@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>1776068666</Id>
+    <Id>1776071783</Id>
     <DateBegin>2026-01-01</DateBegin>
     <DateEnd>2027-12-31</DateEnd>
     <AdType>Товар приобретён на продажу</AdType>
@@ -9,10 +9,12 @@
     <GoodsType>Мужская обувь</GoodsType>
     <Condition>Новое</Condition>
     <Brand>New balance</Brand>
+    <ApparelType>Кроссовки</ApparelType>
+    <Size>42</Size>
     <Title>Кроссовки мужские New balance 574</Title>
-    <Description>Мужские кроссовки New Balance 574 - стиль и комфорт для активных! 👟
+    <Description>Кроссовки мужские New Balance 574 - стиль и комфорт каждый день 👟
 
-Эти кроссовки идеально подходят для весенне-летнего сезона, выполнены из текстиля и замши. Подойдут для мужчин ценящих качество и стиль в обуви.
+Кроссовки New Balance 574 идеально подойдут для повседневной носки. Изготовлены из качественных текстиля и замши, они обеспечивают отличный уровень комфорта и поддержки.
 
 🌟 Характеристики:
 
@@ -35,7 +37,7 @@
 
 Перед покупкой обязательно уточняйте наличие нужного размера! Можете написать нам длину своей стельки в см - мы поможем выбрать идеальный размер. 📐
 
-Эти кроссовки станут отличным дополнением вашего гардероба!
+Эти кроссовки станут незаменимым элементом вашего гардероба!
 
 ---
 
@@ -85,6 +87,6 @@
     <Price>2390</Price>
     <Address>Москва</Address>
     <LocationId>637640</LocationId>
-    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776068666.jpg"/></Images>
+    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776071783.jpg"/></Images>
   </Ad>
 </Ads>

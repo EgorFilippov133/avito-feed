@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>1776073693</Id>
+    <Id>1776074669</Id>
     <DateEnd>2027-12-31</DateEnd>
     <AdType>Товар приобретён на продажу</AdType>
     <ManagerName>MoodCore</ManagerName>
     <ContactMethod>В сообщениях</ContactMethod>
     <Address>Москва, площадь Революции, 2/3</Address>
     <Title>Кроссовки мужские New balance 1906d</Title>
-    <Description>Кроссовки мужские New Balance 1906D - стиль и комфорт в каждой детали 👟
+    <Description>Кроссовки мужские New Balance 1906D - идеальное сочетание стиля и комфорта 👟
 
-Эти кроссовки отлично подходят для весеннего и летнего сезона. Изготовлены из текстиля и замши, они подарят вам максимальное удобство и стильный внешний вид.
+Эти кроссовки с текстильным и замшевым верхом отлично подойдут для весенне-летнего сезона. Они обеспечивают легкость и удобство, что делает их идеальными для активных мужчин.
 
 🌟 Характеристики:
 
@@ -33,7 +33,7 @@
 
 Перед покупкой обязательно уточняйте наличие нужного размера! Можете написать нам длину своей стельки в см - мы поможем выбрать идеальный размер. 📐
 
-Эти кроссовки станут вашим надёжным спутником в каждом шаге!
+Эти кроссовки станут отличным дополнением вашего гардероба!
 
 ---
 
@@ -80,7 +80,7 @@
 Мы любим то, что делаем, и гарантируем ответственный подход к каждому заказу! Рады помочь вам с выбором! 😊
 
 ⚡️ Предложение ограничено - успейте заказать!</Description>
-    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776073693.jpg"/></Images>
+    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_0.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_1.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_2.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_3.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_4.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_5.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_6.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_7.jpg"/><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776074669_8.jpg"/></Images>
     <Category>Одежда, обувь, аксессуары</Category>
     <Delivery>
       <Option>ПВЗ</Option>
@@ -91,9 +91,8 @@
     <Price>2790</Price>
     <GoodsType>Мужская обувь</GoodsType>
     <Condition>Новое с биркой</Condition>
-    <AdType>Товар приобретён на продажу</AdType>
     <Brand>New balance</Brand>
-    <Color>Чёрный</Color>
+    <Color>Серый</Color>
     <ApparelType>Кроссовки</ApparelType>
     <Size>42</Size>
   </Ad>

@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>1776071783</Id>
-    <DateBegin>2026-01-01</DateBegin>
+    <Id>1776073693</Id>
     <DateEnd>2027-12-31</DateEnd>
     <AdType>Товар приобретён на продажу</AdType>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская обувь</GoodsType>
-    <Condition>Новое</Condition>
-    <Brand>New balance</Brand>
-    <ApparelType>Кроссовки</ApparelType>
-    <Size>42</Size>
-    <Title>Кроссовки мужские New balance 574</Title>
-    <Description>Кроссовки мужские New Balance 574 - стиль и комфорт каждый день 👟
+    <ManagerName>MoodCore</ManagerName>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Address>Москва, площадь Революции, 2/3</Address>
+    <Title>Кроссовки мужские New balance 1906d</Title>
+    <Description>Кроссовки мужские New Balance 1906D - стиль и комфорт в каждой детали 👟
 
-Кроссовки New Balance 574 идеально подойдут для повседневной носки. Изготовлены из качественных текстиля и замши, они обеспечивают отличный уровень комфорта и поддержки.
+Эти кроссовки отлично подходят для весеннего и летнего сезона. Изготовлены из текстиля и замши, они подарят вам максимальное удобство и стильный внешний вид.
 
 🌟 Характеристики:
 
@@ -37,7 +33,7 @@
 
 Перед покупкой обязательно уточняйте наличие нужного размера! Можете написать нам длину своей стельки в см - мы поможем выбрать идеальный размер. 📐
 
-Эти кроссовки станут незаменимым элементом вашего гардероба!
+Эти кроссовки станут вашим надёжным спутником в каждом шаге!
 
 ---
 
@@ -84,9 +80,21 @@
 Мы любим то, что делаем, и гарантируем ответственный подход к каждому заказу! Рады помочь вам с выбором! 😊
 
 ⚡️ Предложение ограничено - успейте заказать!</Description>
-    <Price>2390</Price>
-    <Address>Москва</Address>
-    <LocationId>637640</LocationId>
-    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776071783.jpg"/></Images>
+    <Images><Image url="https://raw.githubusercontent.com/EgorFilippov133/avito-feed/main/photos/1776073693.jpg"/></Images>
+    <Category>Одежда, обувь, аксессуары</Category>
+    <Delivery>
+      <Option>ПВЗ</Option>
+      <Option>Постамат</Option>
+    </Delivery>
+    <ReturnPolicy>По браку - 24 часа</ReturnPolicy>
+    <TryOn>Можно примерить</TryOn>
+    <Price>2790</Price>
+    <GoodsType>Мужская обувь</GoodsType>
+    <Condition>Новое с биркой</Condition>
+    <AdType>Товар приобретён на продажу</AdType>
+    <Brand>New balance</Brand>
+    <Color>Чёрный</Color>
+    <ApparelType>Кроссовки</ApparelType>
+    <Size>42</Size>
   </Ad>
 </Ads>
